@@ -9,4 +9,4 @@ main:
     url: /conferences/    
 
   - title: "CV"
-  url: /cv/
+    url: /cv/
