@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello ! My name is Charlotte Chapellier. I am a PhD student at CERMICS, Ecole des Ponts et Chaussées - Institute Polytechnique de Paris. 
+Hello ! My name is Charlotte Chapellier. I am a PhD student at CERMICS under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](http://cermics.enpc.fr/~lelievre/), Ecole des Ponts et Chaussées - Institute Polytechnique de Paris. 
 
 Areas of Interest
 ======
